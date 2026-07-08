@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+xgboost
+lightgbm
+joblib
+streamlit
+plotly
+langchain
+langchain-google-genai
+dotenv

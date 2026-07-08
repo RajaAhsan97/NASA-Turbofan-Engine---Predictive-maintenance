@@ -1,0 +1,35 @@
+NASA Dataset
+        │
+        ▼
+Data Cleaning
+        │
+        ▼
+Feature Engineering
+        │
+        ▼
+RUL Prediction Model
+(Random Forest / XGBoost)
+        │
+        ├──────────────┐
+        ▼              ▼
+Current RUL      SHAP Explainability
+        │
+        ▼
+Time-Series Forecast Model
+(LSTM / GRU)
+        │
+        ▼
+Future Sensor Values
+(+2, +5 Days)
+        │
+        ▼
+RUL Prediction Again
+        │
+        ▼
+Future RUL
+        │
+        ▼
+LLM Maintenance Assistant
+        │
+        ▼
+Streamlit Dashboard
